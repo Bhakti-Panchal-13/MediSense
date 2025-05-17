@@ -1,0 +1,30 @@
+/* Change the navbar background color to light purple */
+.navbar {
+    background-color: #D8BFD8 !important; /* Light purple (Thistle) */
+}
+
+/* Change the navbar text color */
+.navbar .navbar-brand,
+.navbar .nav-link {
+    color: black !important; /* Black text for better visibility */
+}
+
+/* Change navbar link hover effect */
+.navbar .nav-link:hover {
+    color: #6a0572 !important; /* Darker purple on hover */
+}
+ .logo {
+            width: 50px;
+            height: 50px;
+            color: black;
+            margin-top: 0;
+            margin-left: 2px;
+        }
+
+        .myimg {
+            width: 50px;
+            height: 50px;
+            border: 2px solid black;
+            border-radius: 25px;
+        }
+
